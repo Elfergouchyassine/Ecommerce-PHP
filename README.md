@@ -1,10 +1,5 @@
 # PHP E-Commerce Project
 
-## Demo
-
-Check out a demo video showcasing the project's features:
-
-![Demo Video](./demo_video/demo_php.mp4)
 
 ## Prerequisites
 To run this project locally, ensure the following prerequisites are met:
